@@ -102,14 +102,14 @@ li{
     font-weight: 800;
     padding: 20px 0;
     text-transform: uppercase;
-/* 
+
     background-image: url(../pic1.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
     -webkit-background-clip: text;
     background-clip: text;
-    color: transparent; */
+    color: transparent;
 }
 #secondInput{
     width: 500px;
